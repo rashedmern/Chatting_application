@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+
+@layer{
+    .container{
+    max-width: 1285px;
+    margin: 0 auto;
+    }
+}
+
+@theme {
+  --font-primary: "Sacramento", sans-serif;
+  --font-secondary: "PT Sans", sans-serif;
+  --font-tertiary: "Noto Sans Bengali", sans-serif;
+}

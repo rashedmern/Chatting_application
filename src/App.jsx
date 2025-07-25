@@ -1,11 +1,12 @@
 import React from 'react'
-import Login_Page from './Components/login_page.jsx'
+
+import LoginPage from './Components/LoginPage.jsx'
 
 const App = () => {
   return (
     <div>
       <>
-        <Login_Page />
+        <LoginPage />
       
       </>
     </div>
