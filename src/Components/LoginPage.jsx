@@ -17,7 +17,7 @@ const LoginPage = () => {
           <div className="relative">
               <div>
             <div className="p-[122px] flex justify-end">
-              <div className="w-[680px] h-full bg-[#000008]/30 backdrop-blur-sm rounded-lg  ">
+              <div className="w-[680px] h-full bg-[#000008]/30 backdrop-blur-sm rounded-lg border border-blue-900/20 shadow-lg">
                 <h1 className="text-white font-primary text-[40px] text-center -tracking-tighter mt-[30px]">
                   Sign in{" "}
                 </h1>
